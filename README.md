@@ -1,2 +1,3 @@
 # CodeGuru
 An AI tool that predicts the time complexity of code images and snippets.
+CodeGuru uses Machine Learning (ML) and Natural Language Processing (NLP) algorithms to measure the running time of code blocks in Big O notation to detect areas with high levels of complexity such as long methods or functions, nested logic, or other complexity indicators. CodeGuru intends to provide developers with a clear objective way to assess code complexity. The system serves as an educational tool for less experienced developers by identifying whether a certain code is considered complex. The Machine Learning and Natural Language Processing models used are EfficientNetB0 and CodeBERT. Deployed in a responsive website for developers, students, and beginners.
